@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (proyectoCmasSQL.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  proyectoCmasSQL.cpp
+  Generando código
+  2 of 153 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  proyectoCmasSQL.vcxproj -> C:\Users\neryg\Desktop\Tareas y Demas Tercer semestre\Programacion 1\C++conectado a mysql\proyectoCmasSQL\x64\Release\Parcial 2 Progra 1.exe
